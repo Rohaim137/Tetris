@@ -10,7 +10,7 @@ Tetris game created using OOP fundamentals in C++ and SFML library for graphics.
 ## Functionality
 * This is a tetris clone and implements all the basic features of the classic game.
 * Enter your name at the starting screen and press enter to start the game.
-* Left and right arrow keys are used to move the tetrominoes and up key is used to rotate them.
+* Left and right arrow keys are used to move the tetromino, down key speeds it up and up key is used to rotate it.
 * The seven basic tetrominoes implemented with the essential rotaions for each.
 * The game terminates when you reach the top of the grid and the leaderboard is displayed
 
