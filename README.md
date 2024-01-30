@@ -15,3 +15,5 @@ Tetris game created using OOP fundamentals in C++ and SFML library for graphics.
 * The game terminates when you reach the top of the grid and the leaderboard is displayed
 
 ## Run Locally
+* Download the "TetrisFiles" folder and run the tetris.exe file in this folder to play the game.
+* The "Source.cpp" file handles the main event loop and "classes.h" file implements the classes for the grid, tetromino, game etc.
