@@ -1,4 +1,4 @@
-# Tetris-OOP-Project-
+# Tetris-OOP-Project
 Tetris game created using OOP fundamentals in C++ and SFML library for graphics.  
 
 ## Implementation
